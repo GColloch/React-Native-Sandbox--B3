@@ -6,7 +6,7 @@ function Profil ({ navigation }) {
       <Text>PROFILE SCREEN</Text>
       <Button
         title='Aller à la Map'
-        onPress={() => navigation.navigate('🗺️ Map')}
+        onPress={() => navigation.navigate('Map')}
       />
     </View>
   )

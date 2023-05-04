@@ -6,7 +6,7 @@ function Map ({ navigation }) {
       <Text>MAP SCREEN</Text>
       <Button
         title='Aller à la page Home'
-        onPress={() => navigation.navigate('😎 Home')}
+        onPress={() => navigation.navigate('Home')}
       />
     </View>
   )
